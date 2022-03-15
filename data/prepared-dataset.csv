@@ -1,3 +1,0 @@
-mrn,dob,address,mean_hba1c,num_t2dm_dx,last_t2dm_dx,last_t2dm_dx_date,insulin_rx_count,last_insulin_rx_date,query,lat,lon,lat_min,lat_max,lon_min,lon_max
-A12345,1970-01-01,"323 E Wacker Drive, Chicago, IL",5.01,0,NA,NA,0,NA,"323 E Wacker Drive, Chicago, IL",41.8873689,-87.6194075882213,41.887183,41.8875683,-87.6197808,-87.6191559
-A12346,1970-01-02,"323 E Wacker Drive, Chicago, IL",7.22,5,E11.9,2022-03-15,3,2022-03-15,"323 E Wacker Drive, Chicago, IL",41.8873689,-87.6194075882213,41.887183,41.8875683,-87.6197808,-87.6191559
