@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+library('tidyverse')
+df <- read_csv('../data/prepared-dataset.csv')
+```
+
+```{r}
+df
+```
